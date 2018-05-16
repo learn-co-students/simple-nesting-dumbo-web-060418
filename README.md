@@ -1,4 +1,4 @@
-# Simple Nesting Lab
+to just # Simple Nesting Lab
 
 ## Objectives
 
